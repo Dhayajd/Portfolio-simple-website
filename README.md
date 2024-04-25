@@ -1,4 +1,7 @@
 simple website
+
+
+
 Welcome to my portfolio! This is a simple website created using HTML and basic CSS, featuring a homepage and a contact page.
 
 Features
