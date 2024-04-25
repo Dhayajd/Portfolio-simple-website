@@ -6,10 +6,16 @@ Welcome to my portfolio! This is a simple website created using HTML and basic C
 
 Features
 Homepage: Provides an introduction to my Website.
+
+
 Contact Page: Offers a means for visitors to get in touch.
+
+
 Technologies Used
 HTML
 CSS
+
+
 Usage
 Clone the repository to your local machine.
 Open index.html to view the homepage.
